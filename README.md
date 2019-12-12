@@ -2,7 +2,7 @@
 ENPM662 Project
 
 ## Overview
-This projects simulates thrwoing of 3 objects using a robotic manipulator. It is developed on the V-REP3 software.
+This projects simulates throwing of 3 objects using a robotic manipulator. It is developed on the V-REP3 software.
 
 ## Run
 - Download and install V-REP from [*here*](http://coppeliarobotics.com/winVersions). It is recommended to install the EDU version if you are a student.
