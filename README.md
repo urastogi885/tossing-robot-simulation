@@ -1,5 +1,5 @@
 # Tossing Robot Simulation
-ENPM662 Project
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 This projects simulates throwing of 3 objects using a robotic manipulator. It is developed on the V-REP3 software.
